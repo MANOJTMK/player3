@@ -3,6 +3,7 @@
 int main() 
 {
     int a[10],k,i=0,p,n,j,max=0;
+	clrscr();
 	scanf("%d %d",&n,&p);
 	for(i=0;i<n;i++)
 	{
